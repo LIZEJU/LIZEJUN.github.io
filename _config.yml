@@ -68,7 +68,7 @@ theme:   butterfly # butterfly ##  hexo-theme-matery-master  hexo-theme-next  bu
 deploy:
   type: git
   repo: https://github.com/LIZEJU/hexo_blog.git
-  branch: main
+  branch: pages
 ## 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
 
 # hexo-absolute
