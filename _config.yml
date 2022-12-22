@@ -7,7 +7,8 @@ language: zh-hans  ## zh-CN
 timezone: 'Asia/Shanghai'
 #url:  http://localhost:4000/  
 #url: https://lizeju1234.gitee.io/blog/
-url: https://lizeju.github.io/hexo_blog/
+#url: https://lizeju.github.io/hexo_blog/
+url: https://doc.lizejun.fit/
 #url: http://localhost:4000/blog/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
@@ -74,6 +75,7 @@ deploy:
 ## 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
 # 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
 # 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
+#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
 # hexo-absolute
 
 
