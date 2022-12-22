@@ -67,8 +67,8 @@ ignore: null
 theme:   butterfly # butterfly ##  hexo-theme-matery-master  hexo-theme-next  butterfly
 deploy:
   type: git
-  #repo: https://github.com/LIZEJU/hexo_blog.git
-  repo: https://gitee.com/lizejun1234/blog.git
+  repo: https://github.com/LIZEJU/hexo_blog.git
+  #repo: https://gitee.com/lizejun1234/blog.git
   branch: pages
 ## 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
 # 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
